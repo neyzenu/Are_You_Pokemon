@@ -1,6 +1,7 @@
 # AI Pokémon Identifier
 
 This project is an AI model that identifies which Pokémon is in a given image. It was developed using TensorFlow 2.8 and Python 3.9.
+But Datasets only have 3 pokemon you can add others
 
 ## Project Overview
 The AI Pokémon Identifier analyzes Pokémon images using machine learning techniques to predict which Pokémon is in the image. Users can upload an image and receive a prediction of the Pokémon.
